@@ -1,8 +1,8 @@
 const app = Vue.createApp({
   data() {
     return {
-      letter: "",
-      nato: "Press any letter to get the NATO alphabet equivalent",
+      letter: "Press any letter to get the NATO alphabet equivalent",
+      nato: "",
       code: {
         A: "Alfa",
         B: "Bravo",

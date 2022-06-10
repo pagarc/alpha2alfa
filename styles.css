@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+    background-color: slategray;
+    color: antiquewhite;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+#root {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.nato {
+    font-family: 'Stardos Stencil', serif;
+    font-size: 5em;
+}
+
+.letter {
+    font-size: 4em;
+}
